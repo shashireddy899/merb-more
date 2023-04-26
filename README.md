@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
