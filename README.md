@@ -1,1 +1,1 @@
-fix predict with class filter
+Add domain checks to CI docs page (#8714)
