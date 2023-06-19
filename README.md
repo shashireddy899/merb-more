@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Replacing Images for torchscript.md (#8596)
