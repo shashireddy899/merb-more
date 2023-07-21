@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
