@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
