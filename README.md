@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
