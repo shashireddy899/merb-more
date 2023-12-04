@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Update format.yml to pull_request_target (#7460)
