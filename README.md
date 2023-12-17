@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Add docs guide terminal images (#8819)
