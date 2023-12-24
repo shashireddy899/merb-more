@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Faster batch same_shapes (#8851)
