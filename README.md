@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
