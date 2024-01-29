@@ -1,1 +1,1 @@
-fix val each epoch
+Docs partial mdformat improvements (#7378)
