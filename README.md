@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
