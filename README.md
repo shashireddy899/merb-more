@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Clean up unused imgsz (#7771)
