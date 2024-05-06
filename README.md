@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Add Amazon Sagemaker Docs integrations page (#7293)
