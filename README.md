@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
