@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Compare plt.get_backend() in lowercase (#8409)
