@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+ultralytics 8.1.29 improved disk space checking on correct path (#8977)
