@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Fix Yolo 8.0.206 scale bug (#7821)
