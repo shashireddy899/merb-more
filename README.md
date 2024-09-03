@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
