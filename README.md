@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+ultralytics 8.1.5 add OBB Tracking support (#7731)
